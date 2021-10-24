@@ -1,4 +1,4 @@
-class UserCrontoller {
+class UserController {
 
     constructor(formId, tableId) {
         this.formEl = document.getElementById(formId);
